@@ -22,4 +22,6 @@ bundles/
 .git/
 vendor/pkg/
 pyenv
-Vagrantfile
+.env
+
+*id_rsa.pub
